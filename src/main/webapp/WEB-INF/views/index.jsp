@@ -19,5 +19,7 @@
 </body>
 <script>
 	var obj ={};
+	obj.name = "조바울";
+	obj["age"] = 29;
 </script>
 </html>
